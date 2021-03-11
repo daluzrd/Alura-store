@@ -1,0 +1,14 @@
+
+.menu__link {
+    text-decoration: none;
+    color: #333333;
+    padding: 0.5rem 1rem;
+}
+
+.menu__link:visited {
+    text-decoration: none;
+}
+
+.menu__link:hover, .ativo{
+    border-bottom: 2px solid #0073E6;
+}
